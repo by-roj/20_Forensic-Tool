@@ -17,7 +17,7 @@ morsecode = {
 def decrypt(message):
     result = ''
 
-    for c in message.split(' '):
+    for c in message.split(' '):    # 공백 기준으로 split
         if c in morsecode.keys():
             result += morsecode[c]
     
