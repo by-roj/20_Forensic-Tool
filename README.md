@@ -1,5 +1,5 @@
 # Forensic-Tool
-디지털 포렌식 도구, 알고리즘을 Python으로 
+디지털 포렌식 도구, 알고리즘을 Python으로 구현
 
 <br>
 
