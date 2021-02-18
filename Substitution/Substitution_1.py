@@ -1,6 +1,6 @@
 message = "ogrk hg tl`n srbszizrzig aiphgu mg ycahzylluf vllu fg ahcoogneg pceinc is ngzdluag"
 
-# ogrk hg tl`n srbsz → leuk he zo`n subst"
+# ogrk hg tl`n srbsz → leuk he zo`n subst
 
 message = message.replace('o', 'L')
 message = message.replace('g', 'E')
