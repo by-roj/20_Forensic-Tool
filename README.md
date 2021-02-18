@@ -44,3 +44,12 @@
 
 - 운영 중인 서버에서 열려 있는 TCP/UDP 포트를 검색
 
+<br>
+
+#### 7.MBR Analysis & Recovery
+
+- MBR 분석 자동화 도구
+- 손상된 MBR Partition 복구 자동화 도구
+
+
+
