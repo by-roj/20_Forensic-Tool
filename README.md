@@ -1,4 +1,4 @@
-# Forensics-Tool
+# Forensics Tool
 Implementing digital forensicss tools and algorithms in Python
 
 <br>
